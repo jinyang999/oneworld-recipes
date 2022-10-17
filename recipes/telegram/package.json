@@ -4,7 +4,7 @@
   "version": "3.3.4",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://web.telegram.org",
+    "serviceURL": "https://web.telegram.org/z/",
     "hasNotificationSound": true
   }
 }
